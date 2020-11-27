@@ -2,5 +2,5 @@
 
 echo "this is jenkins webhook example"
 
-systemd-analyze
+systemd-analyze blame
 
