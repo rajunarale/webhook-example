@@ -6,3 +6,5 @@ systemd-analyze blame
 
 cat /etc/passwd
 cat /etc/shadow
+
+systemctl list-units
