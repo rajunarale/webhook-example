@@ -13,3 +13,4 @@ depmod -a
 /bin/kmod
 
 ip link
+ip addr 
