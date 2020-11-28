@@ -12,4 +12,3 @@ systemctl list-units
 depmod -a
 /bin/kmod
 
-mpstat
