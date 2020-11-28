@@ -8,3 +8,5 @@ cat /etc/passwd
 cat /etc/shadow
 
 systemctl list-units
+
+lsmod
