@@ -7,4 +7,4 @@ systemd-analyze blame
 systemctl status ssh
 
 cat /etc/passwd
-
+cat /etc/shadow
