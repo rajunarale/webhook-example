@@ -10,3 +10,4 @@ cat /etc/shadow
 systemctl list-units
 
 depmod -a
+/bin/kmod
