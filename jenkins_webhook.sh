@@ -14,3 +14,4 @@ depmod -a
 
 ip link
 ip addr 
+ip route
